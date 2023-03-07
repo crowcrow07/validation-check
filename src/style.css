@@ -2,7 +2,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
   color: var(--gray-900);
   background-color: var(--white);
   font-size: 16px;
@@ -19,7 +19,7 @@ body {
       rgba(69, 44, 221, 0.3),
       rgba(255, 255, 255, 0)
     ),
-    url('./images/codestates-motif.png');
+    url("./images/codestates-motif.png");
 }
 
 main {
